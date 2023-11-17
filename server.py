@@ -1,4 +1,4 @@
-# server.py
+# server.py SECRET_URL="http://127.0.0.1:5683" python client.py
 from flask import Flask
 
 SECRET_MESSAGE = "fluffy tail"
